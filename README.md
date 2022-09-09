@@ -15,4 +15,4 @@ Tài khoản đăng nhập:
 
 - Nhân viên: 
 	username: nguyenvana, nguyenvanb, nguyenvanc, levanxuan, daoduykien, lethina
-	password: 123456
+	/ password: 123456
