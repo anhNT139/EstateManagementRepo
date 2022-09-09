@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "value.file.upload.root.folder",
+      "type": "java.lang.String",
+      "description": "Description for value.file.upload.root.folder."
+    },
+    {
+      "name": "value.file.upload.root.folder1",
+      "type": "java.lang.String",
+      "description": "Description for value.file.upload.root.folder1."
+    }
+  ] }
